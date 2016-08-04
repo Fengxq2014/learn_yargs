@@ -1,0 +1,33 @@
+{
+  "name": "node_toupiao",
+  "version": "1.0.0",
+  "bin": {
+    "toupiao": "index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.14.1",
+    "node-schedule": "^1.1.1",
+    "request": "^2.74.0",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "defned",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Fengxq2014/learn_yargs.git"
+  },
+  "keywords": [
+    "yargs",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/Fengxq2014/learn_yargs/issues"
+  },
+  "homepage": "https://github.com/Fengxq2014/learn_yargs#readme",
+  "description": ""
+}
